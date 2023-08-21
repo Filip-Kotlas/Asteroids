@@ -1,0 +1,14 @@
+﻿  Asteroid.cpp
+C:\Users\filip\Filip\Jaderka\Semestr 3\PRC1\Zapoctak\Asteroids\Constants.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Laser.cpp
+C:\Users\filip\Filip\Jaderka\Semestr 3\PRC1\Zapoctak\Asteroids\Constants.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+C:\Users\filip\Filip\Jaderka\Semestr 3\PRC1\Zapoctak\Asteroids\Constants.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Functions.cpp
+C:\Users\filip\Filip\Jaderka\Semestr 3\PRC1\Zapoctak\Asteroids\Constants.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Object.cpp
+C:\Users\filip\Filip\Jaderka\Semestr 3\PRC1\Zapoctak\Asteroids\Constants.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Point.cpp
+  Spaceship.cpp
+C:\Users\filip\Filip\Jaderka\Semestr 3\PRC1\Zapoctak\Asteroids\Spaceship.h(4,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
